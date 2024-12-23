@@ -4,33 +4,35 @@ Ez a projekt a következő funkciókat tartalmazza:
 
 Fő Funkciók
 
-HUD: Felhasználóbarát interfész az alapvető információk megjelenítéséhez.
+HUD
 
-NORAGDOLL Gugolás: Ragdoll-effektus nélküli gugolás lehetőség.
+NORAGDOLL 
 
-Minding nappal: Folyamatos nappali idő beállítása.
+Gugolás
 
-NORECOIL: Visszarúgásmentes lövés.
+Minding nappal
 
-SAFEZONE: Biztonságos zóna funkció.
+NORECOIL
+
+SAFEZONE
 
 Egyéb Funkciók
 
-Autó kikérő: Gyors autólekérés funkció.
+Autó kikérő
 
-Frakció felhívás (/fh): Parancs alapú frakciós kommunikáció.
+Frakció felhívás (/fh)
 
-Boltok: Bolt rendszerek integrálása.
+Boltok
 
-Tárolók: Tároló rendszerek használata.
+Tárolók
 
-Loadout: Egyedi felszerelések beállítása.
+Loadout
 
-Respawn (Configba állítható): Respawn rendszer konfigurálási lehetőségekkel.
+Respawn (Configba állítható)
 
-Ruhabolt: Ruházati tételek kezelése.
+Ruhabolt
 
-NPC lerakás Triggerekkel: NPC elhelyezés és eseményindítók.
+NPC lerakás Ami Client Oldali Triggereket Futathat le
 
 Követelmények
 
