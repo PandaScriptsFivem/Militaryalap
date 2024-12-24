@@ -1,3 +1,5 @@
+[![Hits](https://hits.sh/github.com/PandaScriptsFivem/Militaryalap.svg?style=for-the-badge&label=N%C3%A9z%C3%A9sek)](https://hits.sh/github.com/PandaScriptsFivem/Militaryalap/)
+
 HUD Funkcionalitások
 
 Ez a projekt a következő funkciókat tartalmazza:
