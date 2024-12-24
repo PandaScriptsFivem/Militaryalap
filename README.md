@@ -8,6 +8,10 @@ HUD
 
 NORAGDOLL 
 
+Interior Sprint
+
+Max Stamina
+
 Gugolás
 
 Minding nappal
