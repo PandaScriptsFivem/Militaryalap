@@ -4,8 +4,6 @@ HUD Funkcionalitások
 
 Ez a projekt a következő funkciókat tartalmazza:
 
-Fő Funkciók
-
 HUD
 
 NORAGDOLL 
