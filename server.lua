@@ -1,9 +1,16 @@
 AddEventHandler('onResourceStart', function(resourceName)
     if resourceName == GetCurrentResourceName() then
+        local currentResourceName = GetCurrentResourceName()
+        if currentResourceName ~= "Militaryalap" then
+            print("^1[ERROR] A script neve nem megfelelő. A Militaryalap script leáll.^0")
+            return
+        end
         exports.ox_inventory:RegisterStash("military_stash", "Tároló", 500, 500000, true, false, vector3(0, 0, 0))
         exports.ox_inventory:RegisterShop('Bolt', {name = "Felszerelés vétel", inventory = Config.boltitems})
+        lib.versionCheck('PandaScriptsFivem/Militaryalap')
     end
 end)
+
 
 -- Halál dolgok:
 
