@@ -30,7 +30,7 @@ files {
 	'html/index.html'
 }
 
-dependecity {
+dependencies {
     "ox_lib",
     "ox_inventory",
     "es_extended"
