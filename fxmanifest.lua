@@ -29,3 +29,9 @@ server_scripts {
 files {
 	'html/index.html'
 }
+
+dependecity {
+    "ox_lib",
+    "ox_inventory",
+    "es_extended"
+}
